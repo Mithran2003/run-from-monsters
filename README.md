@@ -4,3 +4,4 @@ To run the WebGL build -
 1 download content of WebGL Build folder 
 2 host a local http server from the downloaded folder 
 3 connect to localhost:(open port) from the browser
+Or u can visite "https://mithran2003.github.io/Run_from_Monster_live/" to run the game 
